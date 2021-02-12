@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interview-task/static/css/main.1f24c9d6.chunk.css",
+    "main.js": "/interview-task/static/js/main.93c70ce1.chunk.js",
+    "main.js.map": "/interview-task/static/js/main.93c70ce1.chunk.js.map",
+    "runtime-main.js": "/interview-task/static/js/runtime-main.58acfb2d.js",
+    "runtime-main.js.map": "/interview-task/static/js/runtime-main.58acfb2d.js.map",
+    "static/js/2.964efff7.chunk.js": "/interview-task/static/js/2.964efff7.chunk.js",
+    "static/js/2.964efff7.chunk.js.map": "/interview-task/static/js/2.964efff7.chunk.js.map",
+    "static/js/3.0ae318f9.chunk.js": "/interview-task/static/js/3.0ae318f9.chunk.js",
+    "static/js/3.0ae318f9.chunk.js.map": "/interview-task/static/js/3.0ae318f9.chunk.js.map",
+    "index.html": "/interview-task/index.html",
+    "static/css/main.1f24c9d6.chunk.css.map": "/interview-task/static/css/main.1f24c9d6.chunk.css.map",
+    "static/js/2.964efff7.chunk.js.LICENSE.txt": "/interview-task/static/js/2.964efff7.chunk.js.LICENSE.txt",
+    "static/media/icon-1.1d798ff3.png": "/interview-task/static/media/icon-1.1d798ff3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58acfb2d.js",
+    "static/js/2.964efff7.chunk.js",
+    "static/css/main.1f24c9d6.chunk.css",
+    "static/js/main.93c70ce1.chunk.js"
+  ]
+}
